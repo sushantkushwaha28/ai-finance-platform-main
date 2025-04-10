@@ -53,8 +53,8 @@ export const featuresData = [
   },
   {
     icon: <Globe className="h-8 w-8 text-blue-600" />,
-    title: "Multi-Currency",
-    description: "Support for multiple currencies with real-time conversion",
+    title: "Currency",
+    description: "Support for currencies with real-time conversion",
   },
   {
     icon: <Zap className="h-8 w-8 text-blue-600" />,
