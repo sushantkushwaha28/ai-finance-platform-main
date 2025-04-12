@@ -12,7 +12,7 @@ export const defaultCategories = [
     name: "Freelance",
     type: "INCOME",
     color: "#06b6d4", // cyan-500
-    icon: "Laptop",
+    // icon: "Laptop",
   },
   {
     id: "investments",
